@@ -1,0 +1,12 @@
+site_name: vending-machine-for-rapid-COVID19-tests
+repo_url: https://github.com/KyleMcNease/vending-machine-for-rapid-COVID19-tests
+theme:
+  name: material
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+nav:
+  - Home: index.md
+  - Build Plan: build-plan.md
